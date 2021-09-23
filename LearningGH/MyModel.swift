@@ -8,6 +8,6 @@
 import Foundation
 
 struct MyModel {
-    var name: String = "Lala"
+    var name: String = "Mi MI"
 
 }
